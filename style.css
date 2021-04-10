@@ -241,6 +241,13 @@ margin: 10px;
     margin: 10px;
     
 }
+.box h3{
+    font-size: 22px;
+    color: rgb(245, 203, 140);
+}
+.box p:hover{
+    color: crimson;
+}
 #box1{
     background: url('white-01.jpg');
     background-color: rgb(70, 69, 69);
