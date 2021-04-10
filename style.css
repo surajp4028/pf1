@@ -177,6 +177,7 @@ form input[type="text"], input[type="email"]{
     border: none;
     border-bottom: 2px solid crimson;
     background: transparent;
+    color: blanchedalmond;
 }
 #submit{
     margin-top: 10px;
@@ -242,6 +243,8 @@ margin: 10px;
 }
 #box1{
     background: url('white-01.jpg');
+    background-color: rgb(70, 69, 69);
+    background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -250,6 +253,8 @@ margin: 10px;
 #box2{
     
     background: url('timeandskill.jpg');
+    background-color: rgb(70, 69, 69);
+    background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-size: 100%;
     color: white;
@@ -259,6 +264,8 @@ margin: 10px;
 }
 #box3{
     background: url('radheyfashion.jpg');
+    background-color: rgb(70, 69, 69);
+    background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-size: 100%;
     color: white;
@@ -266,6 +273,8 @@ margin: 10px;
 }
 #box4{
     background: url('quotes.jpg');
+    background-color: rgb(70, 69, 69);
+    background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-size: 100% 150%;
     color: white;
@@ -273,6 +282,8 @@ margin: 10px;
 }
 #box5{
     background: url('w.jpeg');
+    background-color: rgb(70, 69, 69);
+    background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-size: 100% 150%;
     color: white;
@@ -280,6 +291,8 @@ margin: 10px;
 }
 #box6{
     background: url('s.jpg');
+    background-color: rgb(70, 69, 69);
+    background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-size: 100% 150%;
     color: white;
