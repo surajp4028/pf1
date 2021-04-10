@@ -196,6 +196,7 @@ iframe{
 #services-section{
     padding: 50px;
     text-align: center;
+    background: rgb(228, 227, 227);
 }
 #services{
     display: flex;
